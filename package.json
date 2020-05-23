@@ -1,0 +1,17 @@
+{
+  "name": "oka-mini",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./example.js",
+    "test-ts": "npx ts-node ./example.ts"
+  },
+  "keywords": ["koa-mini", "oka", "oka-mini"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.1"
+  }
+}
